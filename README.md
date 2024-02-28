@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Siyoung%20park&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Siyoung%20park&fontSize=90" />
 </p>
 
 <h3 align="center">🚀 About Me </h3>
@@ -51,6 +51,6 @@
   <b>진행기간 : 2023.03~2023.11</b> <br>
   <b>참여 인원 : AI 1명, 프론트엔드 1명, 백엔드 1명</b> <br>
   <b>기술 스택 : FastAPI, TensorFlow, Flutter, Spring Boot, MySQL, Docker </b>     <br>
-  <b>깃허브 :  </b>     <br>
+  <b>깃허브 : https://github.com/parking0/TeenTalk_Server.git </b>     <br>
 </p>
 
