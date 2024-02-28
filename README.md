@@ -3,9 +3,11 @@
 </p>
 
 <h3 align="center">🚀 About Me </h3>
+<p align="center">
+  <b>👩‍💻 Hongik University, Computer Engineering (Seoul, South Korea) : 2018.03~2024.02</b>  <br>
+  <b>👩‍💻 RWTH University, Computer Science (Aachen, Germany) : 2022.04~2023.03</b> 
+</p>
 
-- Hongik University, Computer Engineering (Seoul, South Korea) : 2018.03~2024.02
-- RWTH University, Informatik (Aachen, Germany) : 2022.04~2023.03
 
 <br/>
 
@@ -40,3 +42,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parking0&layout=compact">
 </div>
 <br>
+
+
+<h3>🎁 Project </h3>
+<h4>🗒️혐오발언 실시간 감지 채팅앱 "TeenTalk" </b></h4>
+
+<p>
+  <b>진행기간 : 2023.03~2023.11</b> <br>
+  <b>참여 인원 : AI 1명, 프론트엔드 1명, 백엔드 1명</b> <br>
+  <b>기술 스택 : FastAPI, TensorFlow, Flutter, Spring Boot, MySQL, Docker </b>     <br>
+  <b>깃허브 :  </b>     <br>
+</p>
+
