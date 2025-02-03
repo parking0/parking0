@@ -1,3 +1,5 @@
+<h1> 🖐️ Siyoung Park | 박시영 </h1>
+
 <h2>✏️ Education </h2>
 <p>
   	<b>👩‍💻 Hongik University, Computer Engineering (Seoul, South Korea) : 2018.03-2025.02</b>  <br>
@@ -58,7 +60,7 @@
   <b>기술 스택 : FastAPI, TensorFlow, Flutter, Spring Boot, MySQL, Docker </b>     <br>
 </p>
 
-<h4>🗣️ <a href="https://github.com/couplelog/Backend" target="_blank">Lubee</a> -커플들을 위한 장소 기반 기록 서비스</h4>
+<h4>🗣️ <a href="https://github.com/couplelog/Backend" target="_blank">Lubee</a> - 커플들을 위한 장소 기반 기록 서비스</h4>
 <p>
   <b>진행 기간 : 2024.05-2024.08</b> <br>
   <b>기술 스택 : Spring Boot, MySQL, Redis, Docker, AWS, Github Actions, Git </b>     <br>
